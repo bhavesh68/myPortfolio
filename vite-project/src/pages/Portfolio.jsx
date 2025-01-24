@@ -15,7 +15,6 @@ function Portfolio() {
       deployedLink: "https://city-weather-app-i088.onrender.com/",
       repoLink: "https://github.com/bhavesh68/City-Weather-App"
     }
-    // Add more projects as needed
   ];
 
   return (
