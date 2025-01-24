@@ -10,6 +10,8 @@ The project demonstrates proficiency in front-end development, React components,
 - [Features](#Features)
 - [Credits](#credits)
 - [License](#license)
+- [Image](#Image)
+- [Deployed-application-link](#Deployed-application-link)
 
 ## Features
 
@@ -25,3 +27,10 @@ N/A
 ## License
 
 MIT
+
+## Image
+
+![Alt text](vite-project/src/assets/images/image23.png)
+
+## Deployed-application-link
+https://incredible-cactus-fa4077.netlify.app/
